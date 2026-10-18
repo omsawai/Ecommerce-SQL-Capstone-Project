@@ -1,5 +1,5 @@
 # Ecommerce-SQL-Capstone-Project
-# 🛒 E-Commerce Business Performance & Data Analysis (SQL Capstone)
+# E-Commerce Business Performance & Data Analysis (SQL Capstone)
 
 ## Project Overview
 This project focuses on solving 30 real-world e-commerce business challenges using advanced MySQL queries. It explores customer behavior, revenue trends, product performance, logistics efficiency, and operational bottlenecks to extract actionable business insights.
